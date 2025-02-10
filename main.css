@@ -139,7 +139,7 @@ body {background: rgb(0, 0, 0);}
 }
 @media (max-width: 480px) {
     .content > .sometext {
-        font-size: 11vw;
+        font-size: 9vw;
     }
     .content > .heart {
         height: 70vw;
